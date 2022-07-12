@@ -289,11 +289,8 @@
 	  <extension name= 'xyformsservices' />
 	  <extension name= 'xyformsstorefrontcommons' />
 	  <extension name= 'xyformsweb' />
-	  <extension name= 'gigyaloginaddon' />
-	  <extension name= 'gigyafacades' />	  
-	  <extension name= 'gigyaservices' />
-	  <extension name= 'gigyabackoffice' />	  
-	  
+
+
 <!-- For more information where to find those extensions: -->
 <!-- https://launchpad.support.sap.com/#/notes/2817992 -->
     <extension name='azurecloudhotfolder' />
